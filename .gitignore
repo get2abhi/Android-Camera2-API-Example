@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/caches
+.DS_Store
+/build
+Application/build
+/captures
+.externalNativeBuild
+*.apk
+
+#ignoring local build files
+.idea/workspace.xml
